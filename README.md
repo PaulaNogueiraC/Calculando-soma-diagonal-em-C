@@ -1,1 +1,1 @@
-# Calculando-soma-diagonal-em-C
+# Soma-diagonal-em-C
